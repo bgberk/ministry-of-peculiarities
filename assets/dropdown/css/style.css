@@ -263,3 +263,15 @@
   transition: none !important; }
 
 /*# sourceMappingURL=style.css.map */
+
+@media all and (min-width: 577px) {
+  .logo-mobile {
+    display: none !important;
+  }
+}
+
+@media all and (max-width: 576px) {
+  .logo-desktop {
+    display: none !important;
+  }
+}
