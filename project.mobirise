@@ -1871,7 +1871,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/nightmare-escape2-1-1200x628.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -1888,7 +1888,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/wordpress-893061-1920-1920x1440.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
