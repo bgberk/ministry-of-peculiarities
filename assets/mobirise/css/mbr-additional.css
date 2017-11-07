@@ -1792,6 +1792,30 @@ body {
 .cid-qzX2rv699h .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-qzY8I9n1v6 {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background: #efefef;
+}
+.cid-qzY8I9n1v6 .image-block {
+  margin: auto;
+}
+.cid-qzY8I9n1v6 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qzY8I9n1v6 figcaption {
+  position: relative;
+}
+.cid-qzY8I9n1v6 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qzY8I9n1v6 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qzWUgmp3BX .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -2176,11 +2200,6 @@ body {
 }
 .cid-qzWUgmp3BX .navbar-collapse {
   flex-basis: auto;
-}
-.cid-qzXh4lJT0r {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/cover-photo-copy-960x362.jpg");
 }
 .cid-qzXffsfxEk {
   padding-top: 90px;
@@ -3031,7 +3050,7 @@ body {
 .cid-qzXkA2VyTb {
   padding-top: 0px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 .cid-qzXkA2VyTb .mbr-section-subtitle {
   color: #767676;
