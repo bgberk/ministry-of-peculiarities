@@ -1053,14 +1053,8 @@ pre {
     padding-right: 0;
     padding-left: 0;
   }
-  .desktop-logo {
-    display: none;
-  }
 }
 @media (min-width: 576px) {
-  .mobile-logo {
-    display: none; 
-  }
   .navbar-toggleable {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -3159,4 +3153,14 @@ body {
 }
 .cid-qzX2rv699h .media-container-row .row-copirayt p {
   width: 100%;
+}
+@media only screen and (max-width: 768px) {
+    .desktop-logo {
+      display: none;
+  }
+}
+@media only screen and (min-width: 769px) {
+  .mobile-logo {
+    display: none;
+  }
 }
