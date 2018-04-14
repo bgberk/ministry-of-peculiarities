@@ -59,7 +59,8 @@ body {
 section {
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-size: cover; }
+  background-size: cover; 
+  background-color: #2e2e2e}
   section .mbr-background-video,
   section .mbr-background-video-preview {
     position: absolute;
